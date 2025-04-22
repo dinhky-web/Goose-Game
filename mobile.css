@@ -175,7 +175,7 @@ main {
 section.description {
    font-size: 115%;
    line-height: 1.4;
-   margin: 1rem;
+   margin: auto;
    grid-row: 2/3;
 }
 
@@ -183,7 +183,7 @@ section.description {
 section.description h2 {
    font-size: 125%;
    font-weight: bold;
-   margin-bottom: 1.5rem;
+   margin: auto;
 }
 
 /* ⬇ Featuring */
@@ -205,7 +205,7 @@ section.description li {
 /* ⬇ Goose in yellow badge */
 img.goose-badge {
    grid-row: 3/4;
-   padding-left: 115px;
+   margin: auto;
 }
 
 
